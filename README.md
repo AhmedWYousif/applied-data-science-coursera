@@ -34,16 +34,22 @@ This repo contains all my work for this specialization. All the code and quizzes
 
 
 - [Course 4: Applied Text Mining in Python](Course%204)
+  - [Week 1 - Practice Quiz](Course%204/W1%20-%20Working%20with%20Text%20in%20Python/Practice%20Quiz.md)
   - [Week 1 - Quiz 1](Course%204/W1%20-%20Working%20with%20Text%20in%20Python/Quiz%201.md)
   - [Week 1 - Assignment 1 - Working with Text in Python](Course%204/W1%20-%20Working%20with%20Text%20in%20Python/Assignment1.ipynb)
+  - [Week 2 - Practice Quiz](Course%204/W2%20-%20Basic%20Natural%20Language%20Processing/Practice%20Quiz.md)
   - [Week 2 - Quiz 2](Course%204/W2%20-%20Basic%20Natural%20Language%20Processing/Quiz%202.md)
-  - [Week 2 - Assignment 2 - Basic Natural Language Processing](Course%204/W2%20-%20Supervised%20Machine%20Learning%20P1/Assignment2.ipynb)
+  - [Week 2 - Assignment 2 - Basic Natural Language Processing](Course%204/W2%20-%20Basic%20Natural%20Language%20Processing/Assignment2.ipynb)
   - [Week 3 - Quiz 3](Course%204/W3%20-%20Classification%20of%20Text/Quiz%203.md)
   - [Week 3 - Assignment 3 - Classification of Text](Course%204/W3%20-%20Classification%20of%20Text/Assignment3.ipynb)
   - [Week 4 - Quiz 4](Course%204/W4%20-%20Topic%20Modeling/Quiz%204.md)
   - [Week 4 - Assignment 4 - Topic Modeling](Course%204/W4%20-%20Topic%20Modeling/Assignment4.ipynb)
 
-  - [Course 5: Applied Social Network Analysis in Python](Course%205)
+
+
+
+
+- [Course 5: Applied Social Network Analysis in Python](Course%205)
   - [Week 1 - Quiz 1](Course%205/W1%20-%20Why%20Study%20Networks%20and%20Basics%20on%20NetworkX/Quiz%201.md)
   - [Week 1 - Assignment 1 - Why Study Networks and Basics on NetworkX](Course%205/W1%20-%20Why%20Study%20Networks%20and%20Basics%20on%20NetworkX/Assignment1.ipynb)
   - [Week 2 - Quiz 2](Course%205/W2%20-%20Network%20Connectivity/Quiz%202.md)
